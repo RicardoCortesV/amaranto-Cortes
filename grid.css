@@ -164,10 +164,10 @@ body {
     align-items: flex-end;
 }
 
-
-.nav-item {
-    color: #ffe4c4;
+.nav-link {
+    color: #ffe4c4 !important;
 }
+
 
 .nav-item:hover{
     transform: scale(1.2);
